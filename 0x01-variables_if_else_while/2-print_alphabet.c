@@ -1,18 +1,16 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * uses putchar and displays the alphatbet in lowercase
- * Return: Always 0 (Success)
+ * prints alphabets in lowercase using putchar only followed by newline
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
-	char letter;
-	
-	for (letter == 'a'; letter <= 'z'; letter++)
-		putchar(letter);
-	
-		putchar('\n');
+	char low;
 
+	for (low = 'a'; low <= 'z'; low++)
+		putchar(low);
+		putchar('\n');
+	
 	return (0);
 }
