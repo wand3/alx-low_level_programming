@@ -1,1 +1,3 @@
 -(source code in guthub) complete it in order to print whether numbers stored in variable n is possitive or negative
+-checks if the last digit of the integer n is gretter than, less than, is 0 and is not 0
+-this program prints the alphabet in lowercase, foollowed be newline
